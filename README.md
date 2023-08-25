@@ -46,5 +46,4 @@
 	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heejiniii&layout=compact">
 	<br>
-	<br>
-<img src="https://github-readme-stats.vercel.app/api?username=heejiniii&show_icons=true">
+
