@@ -59,19 +59,26 @@
  <br>
 
 ## 팀 구성 및 역할
-- 정희진 <b>ProductOwner & Developer</b><br>
-- 이철민 <b>Developer</b><br>
-- 강동환 <b>Developer</b><br>
-- 임유경 <b>Developer</b><br>
-- 윤성환 <b>Developer</b><br><br><br>
+- 정희진 <b>ProductOwner & Developer</b> - 부품리스트, 장바구니, 결제 / 관리자 페이지 / 젠킨스 설정 및 웹 서버 배포<br>
+- 이철민 <b>Developer</b> - 회원가입, 로그인 / 로그아웃<br>
+- 강동환 <b>Developer</b> - 정비예약, 카탈로그, 모델 비교<br>
+- 임유경 <b>Developer</b> - 메인화면, 마이페이지<br>
+- 윤성환 <b>Developer</b> - 정비사 페이지<br><br><br>
 
 ## 사용 기술
-### 백엔드
-- Java11, SpringBoot, Spring Security, jsp, JWT<br>
+- <b>Languages</b> : Java11 <br>
+- <b>IDE & Tools</b> : Eclipse, MySQL Workbench <br>
+- <b>Web Servers</b> : Tomcat v9.0 server <br>
+- <b>Database</b> : MySQL Ver 8.0.32 <br>
+- <b>Web Development</b> : HTML, CSS, JSP, JavaScript, AJAX <br>
+- <b>Framework</b> : Mybatis, Spring Boot <br>
+- <b>OS</b> : Windows 10, 64비트 <br>
+- <b>DevOps</b> : AWS, Docker, Jenkins <br>
+
 <br>
 
 ### 협업
-- Git, Notion, ERDcloud, Oven<br>
+- <b>Git, Notion, ERDcloud, Oven</b><br>
 
 
 - <a href="https://techblog.woowahan.com/2553/">Git flow - 브랜치 관리 전략</a>
@@ -111,20 +118,20 @@
 
 ## 회고
 
-- Linked
+- <b>Linked</b>
 	- 실제 운영될 서비스라고 생각해 기획하고, 실제로 구현하면서 배운 것을 적용해볼 수 있어서 좋았다.
 	- 코드리뷰를 통해 다른 팀원이 작성한 코드를 보며 배울점을 찾고, 본인의 코드를 다른 사람에게 피드백 받으면서 배우는 점이 많았다. 
 	- 이전보다 팀원들의 소통이 늘었고 팀워크가 좋아진게 느껴졌다.
 
-- Learned
+- <b>Learned</b>
 	- 유닛, 통합 테스트에 대해 더 깊게 배우고 적용해볼 수 있었다.
 	- 깃허브 브랜치 분리를 통해 충돌을 줄여 기능 Merge 시에도 편리함을 느낄 수 있었다.
 
-- Laked
+- <b>Laked</b>
 	- 한 이슈당 예상했던 기간보다 구현부터 pr 완료까지의 시간이 훨씬 오래 걸려 초반 계획했던 기능들을 모두 구현하지 못해 아쉽다.
 	- 챗봇이나 챗gpt api를 활용하는 새로운 기술들도 적용해보고 싶었는데 아쉽다.
 
-- Longed for
+- <b>Longed for</b>
 	- 프론트와 그에 사용될 api를 미리 더 자세히 고려했으면 좋았을 것 같다.
 	- 기간이 좀 더 길었으면 더 완성도 있는 프로젝트 결과물을 낼 수 있었지 않았을까 싶다.
 
