@@ -43,27 +43,26 @@
 
 <br>
 
-<h2>프로젝트 개요</h2>
-자동차 판매 회사 <b>'PONY MOTORS'</b> 
+##프로젝트 개요
+자동차 판매 회사  <a href="http://ponymotors.store/"><b>'PONY MOTORS'</b></a>(접속이 안된다면 http://43.200.190.222/ 로 접속)
 <br><br>
 - 사용자에게 카탈로그, 수리 예약, 부품 구매 등의 서비스를 제공하는 웹 페이지<br>
 - 관리자의 공지사항, 문의 관리, 주문 관리 등을 위한 관리자 페이지<br>
 - 자동차 정비사의 고객관리, 접수, 수납 등을 위한 ERP 프로그램<br><br>
-	* http://ponymotors.store/ (접속이 안된다면 http://43.200.190.222/ 로 접속)<br>
-	* 고객용 ID : heeee20000@gmail.com / PW: Testtest1!<br>
-	* 관리자 / 정비사 : 입력되어 있는 정보로 로그인<br>
-	→ 우측 상단의 三 아이콘 클릭 시 관리자 / 정비사 페이지 로그인이 가능합니다.
+		* 고객용 ID : heeee20000@gmail.com / PW: Testtest1!<br>
+		* 관리자 / 정비사 : 입력되어 있는 정보로 로그인<br>
+		→ 우측 상단의 三 아이콘 클릭 시 관리자 / 정비사 페이지 로그인이 가능합니다.
  <br><br>
 
-<h2>팀 구성 및 역할</h2>
+##팀 구성 및 역할
 - 정희진 <b>ProductOwner & Developer</b><br>
 - 이철민 <b>Developer</b><br>
 - 강동환 <b>Developer</b><br>
 - 임유경 <b>Developer</b><br>
 - 윤성환 <b>Developer</b><br>
 <br>
-<h2>사용 기술</h2>
-<h3>백엔드</h3>
+##사용 기술
+###백엔드
 - Java11, SpringBoot, Spring Security, jsp, JWT<br>
 <br>
 <h3>협업</h3>
@@ -93,9 +92,9 @@
 		- 공지사항<br>
 <br>
 <br>
-https://surf-neon-19f.notion.site/PONY-MOTORS-b8e995a9681842229b6582ecb183e36d?pvs=4
+
 <br>
-프로젝트 구현 과정을 기록한 노션 페이지
+ <a href="https://surf-neon-19f.notion.site/PONY-MOTORS-b8e995a9681842229b6582ecb183e36d?pvs)">프로젝트 구현 과정을 기록한 노션 페이지</a>
 <br><br>
 
 <h3>API Document</h3>
