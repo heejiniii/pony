@@ -68,7 +68,7 @@
 <h3>협업</h3>
 - Git, Notion, ERDcloud, Oven<br>
 <br>
-- Git 브랜치 관리 전략<br>
+- <a href="https://techblog.woowahan.com/2553/">Git flow - 브랜치 관리 전략</a><br>
 - 위 링크를 참고하여, 아래와 같은 형태로 브랜치를 구성하여 관리합니다.<br>
 		<b>- Main:</b> 배포시 사용.<br>
 		<b>- Develop:</b> 완전히 개발이 끝난 부분에 대해서만 오류 확인 후 Merge를 진행합니다.<br>
