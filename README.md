@@ -43,7 +43,7 @@
 
 <br>
 
-##프로젝트 개요##
+<h2>프로젝트 개요</h2>
 자동차 판매 회사  <a href="http://ponymotors.store/"><b>'PONY MOTORS'</b></a>(접속이 안된다면 http://43.200.190.222/ 로 접속)
 <br><br>
 - 사용자에게 카탈로그, 수리 예약, 부품 구매 등의 서비스를 제공하는 웹 페이지<br>
@@ -54,15 +54,15 @@
 		→ 우측 상단의 三 아이콘 클릭 시 관리자 / 정비사 페이지 로그인이 가능합니다.
  <br><br>
 
-##팀 구성 및 역할
+<h2>팀 구성 및 역할</h2>
 - 정희진 <b>ProductOwner & Developer</b><br>
 - 이철민 <b>Developer</b><br>
 - 강동환 <b>Developer</b><br>
 - 임유경 <b>Developer</b><br>
 - 윤성환 <b>Developer</b><br>
 <br>
-##사용 기술
-###백엔드
+<h2>사용 기술</h2>
+<h3>백엔드</h3>
 - Java11, SpringBoot, Spring Security, jsp, JWT<br>
 <br>
 <h3>협업</h3>
