@@ -49,18 +49,18 @@
 - 사용자에게 카탈로그, 수리 예약, 부품 구매 등의 서비스를 제공하는 웹 페이지<br>
 - 관리자의 공지사항, 문의 관리, 주문 관리 등을 위한 관리자 페이지<br>
 - 자동차 정비사의 고객관리, 접수, 수납 등을 위한 ERP 프로그램<br><br>
-	* http://ponymotors.store/ (접속이 안된다면 http://43.200.190.222/ 로 접속)
-	* 고객용 ID : heeee20000@gmail.com / PW: Testtest1!
-	* 관리자 / 정비사 : 입력되어 있는 정보로 로그인
+	* http://ponymotors.store/ (접속이 안된다면 http://43.200.190.222/ 로 접속)<br>
+	* 고객용 ID : heeee20000@gmail.com / PW: Testtest1!<br>
+	* 관리자 / 정비사 : 입력되어 있는 정보로 로그인<br>
 	→ 우측 상단의 三 아이콘 클릭 시 관리자 / 정비사 페이지 로그인이 가능합니다.
- <br>
+ <br><br>
 
-<h2>팀 구성 및 역할</h2><br>
-- 정희진 ProductOwner & Developer<br>
-- 이철민 Developer<br>
-- 강동환 Developer<br>
-- 임유경 Developer<br>
-- 윤성환 Developer<br>
+<h2>팀 구성 및 역할</h2>
+- 정희진 <b>ProductOwner & Developer</b><br>
+- 이철민 <b>Developer</b><br>
+- 강동환 <b>Developer</b><br>
+- 임유경 <b>Developer</b><br>
+- 윤성환 <b>Developer</b><br>
 <br>
 <h2>사용 기술</h2>
 <h3>백엔드</h3>
@@ -71,9 +71,9 @@
 <br>
 - Git 브랜치 관리 전략<br>
 - 위 링크를 참고하여, 아래와 같은 형태로 브랜치를 구성하여 관리합니다.<br>
-	<b>- Main:</b> 배포시 사용.<br>
-	<b>- Develop:</b> 완전히 개발이 끝난 부분에 대해서만 오류 확인 후 Merge를 진행합니다.<br>
-	<b>- Feature:</b> 기능 개발을 진행할 때 사용합니다.
+		<b>- Main:</b> 배포시 사용.<br>
+		<b>- Develop:</b> 완전히 개발이 끝난 부분에 대해서만 오류 확인 후 Merge를 진행합니다.<br>
+		<b>- Feature:</b> 기능 개발을 진행할 때 사용합니다.
  <br>
  <br>
 
@@ -83,20 +83,20 @@
 <br>
 <h3>Features</h3>
 - 회원 페이지 (접속 경로: 로그인 후 마이페이지 -> Shop)<br>
-	- 상품 목록 <br>
-	- 장바구니<br>
-	- 주문, 결제 기능<br>
-	- 결제 내역 확인<br>
+		- 상품 목록 <br>
+		- 장바구니<br>
+		- 주문, 결제 기능<br>
+		- 결제 내역 확인<br>
 - 웹 관리자 페이지 (접속 경로: 메인화면 우측 상단 三 아이콘 클릭 -> 관리자)<br>
-	- 주문목록<br>
-	- 고객문의<br>
-	- 공지사항<br>
+		- 주문목록<br>
+		- 고객문의<br>
+		- 공지사항<br>
 <br>
 <br>
 https://surf-neon-19f.notion.site/PONY-MOTORS-b8e995a9681842229b6582ecb183e36d?pvs=4
 <br>
 프로젝트 구현 과정을 기록한 노션 페이지
-<br>
+<br><br>
 
 <h3>API Document</h3>
 Product API
@@ -110,7 +110,7 @@ Member API
 Order API
 
 <br>
-<h2>회고</h2><br>
+<h2>회고</h2>
 
 - Linked
 	- 실제 운영될 서비스라고 생각해 기획하고, 실제로 구현하면서 배운 것을 적용해볼 수 있어서 좋았다.
