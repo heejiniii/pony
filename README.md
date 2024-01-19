@@ -42,7 +42,6 @@
 </div>
 <br>
 
-	<br>
 <h2>프로젝트 개요</h2>
 자동차 판매 회사 'PONY MOTORS' http://ponymotors.store/ (접속이 안된다면 http://43.200.190.222/ 로 접속)<br>
 	- 사용자에게 카탈로그, 수리 예약, 부품 구매 등의 서비스를 제공하는 웹 페이지<br>
@@ -52,7 +51,7 @@
 	* 고객용 ID : heeee20000@gmail.com / PW: Testtest1!
 	* 관리자 / 정비사 : 입력되어 있는 정보로 로그인
 	→ 우측 상단의 三 아이콘 클릭 시 관리자 / 정비사 페이지 로그인이 가능합니다.
- 
+ <br>
 목적
 이커머스 도메인의 비즈니스 로직 고민
 SpringBoot & JPA 를 바탕으로, Rest API 작성 및 테스트코드 작성 능력 함양
@@ -78,11 +77,12 @@ SpringBoot & JPA 를 바탕으로, Rest API 작성 및 테스트코드 작성 �
 	- Main: 배포시 사용.
 	- Develop: 완전히 개발이 끝난 부분에 대해서만 오류 확인 후 Merge를 진행합니다.
 	- Feature: 기능 개발을 진행할 때 사용합니다.
+ <br>
 
 <h2>Project Specification</h2>
 <h3>ERD</h3>
-<img src="(https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fecad804a-65b3-4cba-aba2-0bc80fb62450%2F%25ED%258C%2580%25EC%259A%25A9_%25ED%258F%25AC%25EB%258B%2588ERD.png?table=block&id=aaae0808-990a-4a97-bf70-a3a7475ffe11&spaceId=1f30aba3-05be-4c54-b64b-0923b6897ef3&width=2000&userId=b4d89335-4d47-44d4-8f00-1feb8dad7b62&cache=v2)" />
-
+<img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fecad804a-65b3-4cba-aba2-0bc80fb62450%2F%25ED%258C%2580%25EC%259A%25A9_%25ED%258F%25AC%25EB%258B%2588ERD.png?table=block&id=aaae0808-990a-4a97-bf70-a3a7475ffe11&spaceId=1f30aba3-05be-4c54-b64b-0923b6897ef3&width=2000&userId=b4d89335-4d47-44d4-8f00-1feb8dad7b62&cache=v2" />
+<br>
 <h3>Features</h3>
 - 회원 페이지 (접속 경로: 로그인 후 마이페이지 -> Shop)
 	- 상품 목록 
@@ -93,8 +93,11 @@ SpringBoot & JPA 를 바탕으로, Rest API 작성 및 테스트코드 작성 �
  	- 주문목록
   	- 고객문의
    	- 공지사항
+<br>
 https://surf-neon-19f.notion.site/PONY-MOTORS-b8e995a9681842229b6582ecb183e36d?pvs=4
+<br>
 프로젝트 구현 과정을 기록한 노션 페이지
+<br>
 
 <h3>API Document</h3>
 Product API
@@ -107,6 +110,7 @@ Member API
 
 Order API
 
+<br>
 <h2>회고</h2>
 - Linked
 	- 실제 운영될 서비스라고 생각해 기획하고, 실제로 구현하면서 배운 것을 적용해볼 수 있어서 좋았다.
