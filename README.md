@@ -42,13 +42,12 @@
 </div>
 <br>
 
-<div align=center>
 	<br>
 <h2>프로젝트 개요</h2>
-자동차 판매 회사 'PONY MOTORS' http://ponymotors.store/ (접속이 안된다면 http://43.200.190.222/ 로 접속)
-	- 사용자에게 카탈로그, 수리 예약, 부품 구매 등의 서비스를 제공하는 웹 페이지
-	- 관리자의 공지사항, 문의 관리, 주문 관리 등을 위한 관리자 페이지
-	- 자동차 정비사의 고객관리, 접수, 수납 등을 위한 ERP 프로그램
+자동차 판매 회사 'PONY MOTORS' http://ponymotors.store/ (접속이 안된다면 http://43.200.190.222/ 로 접속)<br>
+	- 사용자에게 카탈로그, 수리 예약, 부품 구매 등의 서비스를 제공하는 웹 페이지<br>
+	- 관리자의 공지사항, 문의 관리, 주문 관리 등을 위한 관리자 페이지<br>
+	- 자동차 정비사의 고객관리, 접수, 수납 등을 위한 ERP 프로그램<br>
 	
 	* 고객용 ID : heeee20000@gmail.com / PW: Testtest1!
 	* 관리자 / 정비사 : 입력되어 있는 정보로 로그인
@@ -59,21 +58,21 @@
 SpringBoot & JPA 를 바탕으로, Rest API 작성 및 테스트코드 작성 능력 함양
 기획부터 배포까지 경험
 
-<h2>팀 구성 및 역할</h2>
-- 정희진 ProductOwner & Developer
-- 이철민 Developer
-- 강동환 Developer
-- 임유경 Developer
-- 윤성환 Developer
-
+<h2>팀 구성 및 역할</h2><br>
+- 정희진 ProductOwner & Developer<br>
+- 이철민 Developer<br>
+- 강동환 Developer<br>
+- 임유경 Developer<br>
+- 윤성환 Developer<br>
+<br>
 <h2>사용 기술</h2>
 <h3>백엔드</h3>
-- Java11, SpringBoot, Spring Security, jsp, JWT
-
+- Java11, SpringBoot, Spring Security, jsp, JWT<br>
+<br>
 <h3>협업</h3>
-- Git, Notion, ERDcloud, Oven
-
-- Git 브랜치 관리 전략
+- Git, Notion, ERDcloud, Oven<br>
+<br>
+- Git 브랜치 관리 전략<br>
 
 - 위 링크를 참고하여, 아래와 같은 형태로 브랜치를 구성하여 관리합니다.
 	- Main: 배포시 사용.
